@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1,NHL NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20003588&type=stream.m3u8
+
+#EXTINF:-1,NHL 01 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003318&type=stream.m3u8
+
+#EXTINF:-1,NHL 01 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006740&type=stream.m3u8
+
+#EXTINF:-1,NHL 02 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003327&type=stream.m3u8
+
+#EXTINF:-1,NHL 02 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006743&type=stream.m3u8
+
+#EXTINF:-1,NHL 03 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003336&type=stream.m3u8
+
+#EXTINF:-1,NHL 03 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006749&type=stream.m3u8
+
+#EXTINF:-1,NHL 04 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003357&type=stream.m3u8
+
+#EXTINF:-1,NHL 04 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006752&type=stream.m3u8
+
+#EXTINF:-1,NHL 05 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003360&type=stream.m3u8
+
+#EXTINF:-1,NHL 05 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006755&type=stream.m3u8
+
+#EXTINF:-1,NHL 06 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003363&type=stream.m3u8
+
+#EXTINF:-1,NHL 06 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006758&type=stream.m3u8
+
+#EXTINF:-1,NHL 07 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003369&type=stream.m3u8
+
+#EXTINF:-1,NHL 07 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006761&type=stream.m3u8
+
+#EXTINF:-1,NHL 08 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003375&type=stream.m3u8
+
+#EXTINF:-1,NHL 08 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006764&type=stream.m3u8
+
+#EXTINF:-1,NHL 09 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003378&type=stream.m3u8
+
+#EXTINF:-1,NHL 09 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006767&type=stream.m3u8
+
+#EXTINF:-1,NHL 10 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003381&type=stream.m3u8
+
+#EXTINF:-1,NHL 10 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006770&type=stream.m3u8
+
+#EXTINF:-1,NHL 11 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003387&type=stream.m3u8
+
+#EXTINF:-1,NHL 11 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006773&type=stream.m3u8
+
+#EXTINF:-1,NHL 12 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003393&type=stream.m3u8
+
+#EXTINF:-1,NHL 12 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006776&type=stream.m3u8
+
+#EXTINF:-1,NHL 13 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003396&type=stream.m3u8
+
+#EXTINF:-1,NHL 13 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006779&type=stream.m3u8
+
+#EXTINF:-1,NHL 14 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003399&type=stream.m3u8
+
+#EXTINF:-1,NHL 14 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006782&type=stream.m3u8
+
+#EXTINF:-1,NHL 15 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003402&type=stream.m3u8
+
+#EXTINF:-1,NHL 15 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006785&type=stream.m3u8
+
+#EXTINF:-1,NHL 16 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003405&type=stream.m3u8
+
+#EXTINF:-1,NHL 16 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006788&type=stream.m3u8
+
+#EXTINF:-1,NHL 17 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003411&type=stream.m3u8
+
+#EXTINF:-1,NHL 17 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006791&type=stream.m3u8
+
+#EXTINF:-1,NHL 18 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003414&type=stream.m3u8
+
+#EXTINF:-1,NHL 18 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006794&type=stream.m3u8
+
+#EXTINF:-1,NHL 19 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003417&type=stream.m3u8
+
+#EXTINF:-1,NHL 19 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006797&type=stream.m3u8
+
+#EXTINF:-1,NHL 20 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003426&type=stream.m3u8
+
+#EXTINF:-1,NHL 20 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006800&type=stream.m3u8
+
+#EXTINF:-1,NHL 21 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006839&type=stream.m3u8
+
+#EXTINF:-1,NHL 21 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006845&type=stream.m3u8
+
+#EXTINF:-1,NHL 22 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006842&type=stream.m3u8
+
+#EXTINF:-1,NHL 22 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006848&type=stream.m3u8
+
+#EXTINF:-1,NHL 23 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006953&type=stream.m3u8
+
+#EXTINF:-1,NHL 23 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006956&type=stream.m3u8
+
+#EXTINF:-1,NHL 24 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006959&type=stream.m3u8
+
+#EXTINF:-1,NHL 24 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20006962&type=stream.m3u8
+
+#EXTINF:-1,NHL 25 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007196&type=stream.m3u8
+
+#EXTINF:-1,NHL 25 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007199&type=stream.m3u8
+
+#EXTINF:-1,NHL 26 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007202&type=stream.m3u8
+
+#EXTINF:-1,NHL 26 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007205&type=stream.m3u8
+
+#EXTINF:-1,NHL 27 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007208&type=stream.m3u8
+
+#EXTINF:-1,NHL 27 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007211&type=stream.m3u8
+
+#EXTINF:-1,NHL 28 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007214&type=stream.m3u8
+
+#EXTINF:-1,NHL 28 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007217&type=stream.m3u8
+
+#EXTINF:-1,NHL 29 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007220&type=stream.m3u8
+
+#EXTINF:-1,NHL 29 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007223&type=stream.m3u8
+
+#EXTINF:-1,NHL 30 HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007226&type=stream.m3u8
+
+#EXTINF:-1,NHL 30 SD
+http://myghosthunt.great-site.net/725/setplex.php?id=20007229&type=stream.m3u8
+
+#EXTINF:-1,NHL ANAHEIM DUCKS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003462&type=stream.m3u8
+
+#EXTINF:-1,NHL ARIZONA COYOTES
+http://myghosthunt.great-site.net/725/setplex.php?id=20003465&type=stream.m3u8
+
+#EXTINF:-1,NHL BOSTON BRUINS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003489&type=stream.m3u8
+
+#EXTINF:-1,NHL BUFFALO SABRES
+http://myghosthunt.great-site.net/725/setplex.php?id=20003510&type=stream.m3u8
+
+#EXTINF:-1,NHL CALGARY FLAMES
+http://myghosthunt.great-site.net/725/setplex.php?id=20003516&type=stream.m3u8
+
+#EXTINF:-1,NHL CAROLINA HURRICANES
+http://myghosthunt.great-site.net/725/setplex.php?id=20003522&type=stream.m3u8
+
+#EXTINF:-1,NHL CHICAGO BLACKHAWKS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003525&type=stream.m3u8
+
+#EXTINF:-1,NHL COLORADO AVALANCHE
+http://myghosthunt.great-site.net/725/setplex.php?id=20003528&type=stream.m3u8
+
+#EXTINF:-1,NHL COLUMBUS BLUE JACKETS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003531&type=stream.m3u8
+
+#EXTINF:-1,NHL DALLAS STARS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003540&type=stream.m3u8
+
+#EXTINF:-1,NHL DETROIT RED WINGS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003546&type=stream.m3u8
+
+#EXTINF:-1,NHL EDMONTON OILERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003552&type=stream.m3u8
+
+#EXTINF:-1,NHL FLORIDA PANTHERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003558&type=stream.m3u8
+
+#EXTINF:-1,NHL LOS ANGELES KINGS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003564&type=stream.m3u8
+
+#EXTINF:-1,NHL MINNESOTA WILD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003570&type=stream.m3u8
+
+#EXTINF:-1,NHL MONTREAL CANADIENS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003576&type=stream.m3u8
+
+#EXTINF:-1,NHL NASHVILLE PREDATORS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003579&type=stream.m3u8
+
+#EXTINF:-1,NHL NEW JERSEY DEVILS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003597&type=stream.m3u8
+
+#EXTINF:-1,NHL NEW YORK ISLANDERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003603&type=stream.m3u8
+
+#EXTINF:-1,NHL NEW YORK RANGERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003606&type=stream.m3u8
+
+#EXTINF:-1,NHL OTTAWA SENATORS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003609&type=stream.m3u8
+
+#EXTINF:-1,NHL PHILADELPHIA FLYERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003615&type=stream.m3u8
+
+#EXTINF:-1,NHL PITTSBURGH PENGUINS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003627&type=stream.m3u8
+
+#EXTINF:-1,NHL SAN JOSE SHARKS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003630&type=stream.m3u8
+
+#EXTINF:-1,NHL SEATTLE KRAKEN
+http://myghosthunt.great-site.net/725/setplex.php?id=20003636&type=stream.m3u8
+
+#EXTINF:-1,NHL ST LOUIS BLUES
+http://myghosthunt.great-site.net/725/setplex.php?id=20003642&type=stream.m3u8
+
+#EXTINF:-1,NHL TAMPA BAY LIGHTNING
+http://myghosthunt.great-site.net/725/setplex.php?id=20003648&type=stream.m3u8
+
+#EXTINF:-1,NHL TORONTO MAPLE LEAFS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003654&type=stream.m3u8
+
+#EXTINF:-1,NHL VANCOUVER CANUCKS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003663&type=stream.m3u8
+
+#EXTINF:-1,NHL VEGAS GOLDEN KNIGHTS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003669&type=stream.m3u8
+
+#EXTINF:-1,NHL WASHINGTON CAPITALS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003699&type=stream.m3u8
+
+#EXTINF:-1,NHL WINNIPEG JETS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003705&type=stream.m3u8
