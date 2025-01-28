@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1,MLS 01
+http://myghosthunt.great-site.net/725/setplex.php?id=20003036&type=stream.m3u8
+
+#EXTINF:-1,MLS 02
+http://myghosthunt.great-site.net/725/setplex.php?id=20003030&type=stream.m3u8
+
+#EXTINF:-1,MLS 03
+http://myghosthunt.great-site.net/725/setplex.php?id=20003021&type=stream.m3u8
+
+#EXTINF:-1,MLS 04
+http://myghosthunt.great-site.net/725/setplex.php?id=20003015&type=stream.m3u8
+
+#EXTINF:-1,MLS 05
+http://myghosthunt.great-site.net/725/setplex.php?id=20003012&type=stream.m3u8
+
+#EXTINF:-1,MLS 06
+http://myghosthunt.great-site.net/725/setplex.php?id=20003006&type=stream.m3u8
+
+#EXTINF:-1,MLS 07
+http://myghosthunt.great-site.net/725/setplex.php?id=20003003&type=stream.m3u8
+
+#EXTINF:-1,MLS 08
+http://myghosthunt.great-site.net/725/setplex.php?id=20002997&type=stream.m3u8
+
+#EXTINF:-1,MLS 09
+http://myghosthunt.great-site.net/725/setplex.php?id=20002994&type=stream.m3u8
+
+#EXTINF:-1,MLS 10
+http://myghosthunt.great-site.net/725/setplex.php?id=20002982&type=stream.m3u8
+
+#EXTINF:-1,MLS 11
+http://myghosthunt.great-site.net/725/setplex.php?id=20002979&type=stream.m3u8
+
+#EXTINF:-1,MLS 12
+http://myghosthunt.great-site.net/725/setplex.php?id=20002961&type=stream.m3u8
+
+#EXTINF:-1,MLS 13
+http://myghosthunt.great-site.net/725/setplex.php?id=20002955&type=stream.m3u8
+
+#EXTINF:-1,MLS 14
+http://myghosthunt.great-site.net/725/setplex.php?id=20002952&type=stream.m3u8
+
+#EXTINF:-1,MLS 15
+http://myghosthunt.great-site.net/725/setplex.php?id=20002943&type=stream.m3u8
+
+#EXTINF:-1,MLS ATLANTA UNITED
+http://myghosthunt.great-site.net/725/setplex.php?id=20002925&type=stream.m3u8
+
+#EXTINF:-1,MLS AUSTIN FC
+http://myghosthunt.great-site.net/725/setplex.php?id=20002919&type=stream.m3u8
+
+#EXTINF:-1,MLS CHARLOTTE FC
+http://myghosthunt.great-site.net/725/setplex.php?id=20002877&type=stream.m3u8
+
+#EXTINF:-1,MLS CHICAGO FIRE FC
+http://myghosthunt.great-site.net/725/setplex.php?id=20002871&type=stream.m3u8
+
+#EXTINF:-1,MLS COLORADO RAPIDS
+http://myghosthunt.great-site.net/725/setplex.php?id=20002853&type=stream.m3u8
+
+#EXTINF:-1,MLS COLUMBUS CREW
+http://myghosthunt.great-site.net/725/setplex.php?id=20002835&type=stream.m3u8
+
+#EXTINF:-1,MLS DC UNITED
+http://myghosthunt.great-site.net/725/setplex.php?id=20002832&type=stream.m3u8
+
+#EXTINF:-1,MLS FC CINCINNATI
+http://myghosthunt.great-site.net/725/setplex.php?id=20002862&type=stream.m3u8
+
+#EXTINF:-1,MLS FC DALLAS
+http://myghosthunt.great-site.net/725/setplex.php?id=20002829&type=stream.m3u8
+
+#EXTINF:-1,MLS HOUSTON DYNAMO FC
+http://myghosthunt.great-site.net/725/setplex.php?id=20002823&type=stream.m3u8
+
+#EXTINF:-1,MLS KANSAS CITY SPORTING
+http://myghosthunt.great-site.net/725/setplex.php?id=20002820&type=stream.m3u8
