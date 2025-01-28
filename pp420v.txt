@@ -1,131 +1,131 @@
 #EXTM3U
 #EXTINF:-1 group-title="PPV",PPV 01
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005246&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005246&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 02
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005249&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005249&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 03
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005252&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005252&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 04
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005255&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005255&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 05
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005258&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005258&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 06
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005261&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005261&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 07
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005264&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005264&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 08
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005267&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005267&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 09
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005270&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005270&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 10
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005273&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005273&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 11
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005276&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005276&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 12
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005279&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005279&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 13
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005282&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005282&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 14
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005285&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005285&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 15
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005288&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005288&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 16
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005291&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005291&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 17
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005294&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005294&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 18
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005297&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005297&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 19
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005300&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005300&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 20
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005303&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005303&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 21
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005306&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005306&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 22
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005309&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005309&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV 23
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005312&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005312&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 03
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005315&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005315&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 04
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005318&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005318&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 05
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005321&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005321&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 06
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005324&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005324&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 07
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005327&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005327&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 08
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005330&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005330&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 09
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005333&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005333&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 10
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005336&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005336&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 11
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005339&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005339&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 12
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005342&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005342&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 14
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005345&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005345&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 15
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005348&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005348&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 16
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005351&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005351&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 17
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005354&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005354&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 18
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005357&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005357&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 19
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005360&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005360&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 20
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005363&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005363&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 21
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005366&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005366&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 22
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005369&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005369&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 23
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005372&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005372&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 24
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005375&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005375&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 25
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005378&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005378&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 26
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005381&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005381&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 27
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005384&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005384&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 28
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005387&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005387&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",PPV XTRA 29
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005390&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005390&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 01
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006971&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006971&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 02
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006974&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006974&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 03
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006977&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006977&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 04
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006980&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006980&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 05
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006983&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006983&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 06
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006986&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006986&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 07
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006989&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006989&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 08
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006992&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006992&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 09
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006995&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006995&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 10
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006998&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006998&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 11
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20007001&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20007001&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 12
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20007004&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20007004&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 13
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20007007&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20007007&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 14
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20007010&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20007010&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 15
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20007013&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20007013&type=stream.m3u8
 #EXTINF:-1 group-title="PPV",JF PPV 16
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20007016&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20007016&type=stream.m3u8
