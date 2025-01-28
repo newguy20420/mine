@@ -1,0 +1,492 @@
+#EXTM3U
+EXTINF:-1,ATT SPORTS NET
+http://myghosthunt.great-site.net/725/setplex.php?id=20001191&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS ARIZONA
+http://myghosthunt.great-site.net/725/setplex.php?id=20005429&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS ARIZONA PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006053&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS DETROIT
+http://myghosthunt.great-site.net/725/setplex.php?id=20006050&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS DETROIT PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20005432&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS FLORIDA
+http://myghosthunt.great-site.net/725/setplex.php?id=20005435&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS GREAT LAKES
+http://myghosthunt.great-site.net/725/setplex.php?id=20005438&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS INDIANA
+http://myghosthunt.great-site.net/725/setplex.php?id=20005441&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS INDIANA PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20005444&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS KANSAS CITY
+http://myghosthunt.great-site.net/725/setplex.php?id=20005447&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS MIDWEST
+http://myghosthunt.great-site.net/725/setplex.php?id=20005459&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOUTH PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006431&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS MIDWEST PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20005456&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS
+http://myghosthunt.great-site.net/725/setplex.php?id=20005453&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006401&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS NORTH
+http://myghosthunt.great-site.net/725/setplex.php?id=20006398&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS NORTH PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006395&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS OHIO
+http://myghosthunt.great-site.net/725/setplex.php?id=20006392&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS OHIO PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006389&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS OKLAHOMA
+http://myghosthunt.great-site.net/725/setplex.php?id=20006386&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS OKLAHOMA PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006383&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SAN DIEGO
+http://myghosthunt.great-site.net/725/setplex.php?id=20005450&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SAN DIEGO PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006377&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOCAL
+http://myghosthunt.great-site.net/725/setplex.php?id=20006374&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOUTH
+http://myghosthunt.great-site.net/725/setplex.php?id=20006371&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOUTHEAST
+http://myghosthunt.great-site.net/725/setplex.php?id=20006365&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOUTHEAST PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006368&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOUTHWEST
+http://myghosthunt.great-site.net/725/setplex.php?id=20006362&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SOUTHWEST PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006359&type=stream.m3u8
+
+#EXTINF:-1,BEIN SPORTS
+http://myghosthunt.great-site.net/725/setplex.php?id=20001078&type=stream.m3u8
+
+#EXTINF:-1,BEIN SPORTS 4
+http://myghosthunt.great-site.net/725/setplex.php?id=20001080&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS SUN
+http://myghosthunt.great-site.net/725/setplex.php?id=20006356&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS WEST
+http://myghosthunt.great-site.net/725/setplex.php?id=20006353&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS WISCONSIN
+http://myghosthunt.great-site.net/725/setplex.php?id=20006350&type=stream.m3u8
+
+#EXTINF:-1,BALLY SPORTS WISCONSIN PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006347&type=stream.m3u8
+
+#EXTINF:-1,BEIN SPORTS XTRA
+http://myghosthunt.great-site.net/725/setplex.php?id=20004469&type=stream.m3u8
+
+#EXTINF:-1,BC SPORTS B
+http://myghosthunt.great-site.net/725/setplex.php?id=20004922&type=stream.m3u8
+
+#EXTINF:-1,BELLATOR MMA
+http://myghosthunt.great-site.net/725/setplex.php?id=20001626&type=stream.m3u8
+
+#EXTINF:-1,BIG TEN NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20001084&type=stream.m3u8
+
+#EXTINF:-1,BS SPORTS HQ
+http://myghosthunt.great-site.net/725/setplex.php?id=20001893&type=stream.m3u8
+
+#EXTINF:-1,CBS SPORTS NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20001094&type=stream.m3u8
+
+#EXTINF:-1,DAZN 1
+http://myghosthunt.great-site.net/725/setplex.php?id=20002655&type=stream.m3u8
+
+#EXTINF:-1,DAZN 2
+http://myghosthunt.great-site.net/725/setplex.php?id=20002658&type=stream.m3u8
+
+#EXTINF:-1,DAZN 3
+http://myghosthunt.great-site.net/725/setplex.php?id=20002661&type=stream.m3u8
+
+#EXTINF:-1,DAZN 4
+http://myghosthunt.great-site.net/725/setplex.php?id=20002667&type=stream.m3u8
+
+#EXTINF:-1,ESPN HD
+http://myghosthunt.great-site.net/725/setplex.php?id=20003543&type=stream.m3u8
+
+#EXTINF:-1,ESPN
+http://myghosthunt.great-site.net/725/setplex.php?id=20001509&type=stream.m3u8
+
+#EXTINF:-1,ESPN 2
+http://myghosthunt.great-site.net/725/setplex.php?id=20001506&type=stream.m3u8
+
+#EXTINF:-1,ESPN NEWS
+http://myghosthunt.great-site.net/725/setplex.php?id=20001128&type=stream.m3u8
+
+#EXTINF:-1,ESPN U
+http://myghosthunt.great-site.net/725/setplex.php?id=20001130&type=stream.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20001365&type=stream.m3u8
+
+#EXTINF:-1,FITE 01
+http://myghosthunt.great-site.net/725/setplex.php?id=20002670&type=stream.m3u8
+
+#EXTINF:-1,FITE 02
+http://myghosthunt.great-site.net/725/setplex.php?id=20002673&type=stream.m3u8
+
+#EXTINF:-1,FITE 03
+http://myghosthunt.great-site.net/725/setplex.php?id=20002676&type=stream.m3u8
+
+#EXTINF:-1,FITE 04
+http://myghosthunt.great-site.net/725/setplex.php?id=20002679&type=stream.m3u8
+
+#EXTINF:-1,FITE 05
+http://myghosthunt.great-site.net/725/setplex.php?id=20002682&type=stream.m3u8
+
+#EXTINF:-1,FITE 06
+http://myghosthunt.great-site.net/725/setplex.php?id=20002685&type=stream.m3u8
+
+#EXTINF:-1,FITE 07
+http://myghosthunt.great-site.net/725/setplex.php?id=20002688&type=stream.m3u8
+
+#EXTINF:-1,FITE 08
+http://myghosthunt.great-site.net/725/setplex.php?id=20002691&type=stream.m3u8
+
+#EXTINF:-1,FITE 09
+http://myghosthunt.great-site.net/725/setplex.php?id=20002694&type=stream.m3u8
+
+#EXTINF:-1,FITE 10
+http://myghosthunt.great-site.net/725/setplex.php?id=20002697&type=stream.m3u8
+
+#EXTINF:-1,FITE 11
+http://myghosthunt.great-site.net/725/setplex.php?id=20002700&type=stream.m3u8
+
+#EXTINF:-1,FITE 12
+http://myghosthunt.great-site.net/725/setplex.php?id=20002703&type=stream.m3u8
+
+#EXTINF:-1,FITE 13
+http://myghosthunt.great-site.net/725/setplex.php?id=20002706&type=stream.m3u8
+
+#EXTINF:-1,FITE 14
+http://myghosthunt.great-site.net/725/setplex.php?id=20002709&type=stream.m3u8
+
+#EXTINF:-1,FITE 15
+http://myghosthunt.great-site.net/725/setplex.php?id=20002712&type=stream.m3u8
+
+#EXTINF:-1,FITE TV
+http://myghosthunt.great-site.net/725/setplex.php?id=20002715&type=stream.m3u8
+
+#EXTINF:-1,FOX SOCCER PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20001138&type=stream.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://myghosthunt.great-site.net/725/setplex.php?id=20002169&type=stream.m3u8
+
+#EXTINF:-1,FOX SPORTS 1
+http://myghosthunt.great-site.net/725/setplex.php?id=20001140&type=stream.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://myghosthunt.great-site.net/725/setplex.php?id=20001142&type=stream.m3u8
+
+#EXTINF:-1,GOLF CHANNEL
+http://myghosthunt.great-site.net/725/setplex.php?id=20001150&type=stream.m3u8
+
+#EXTINF:-1,HUNT CHANNEL
+http://myghosthunt.great-site.net/725/setplex.php?id=20000858&type=stream.m3u8
+
+#EXTINF:-1,IMPACT WRESTLING
+http://myghosthunt.great-site.net/725/setplex.php?id=20002292&type=stream.m3u8
+
+#EXTINF:-1,MARQUEE SPORTS NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20001176&type=stream.m3u8
+
+#EXTINF:-1,MAV TV
+http://myghosthunt.great-site.net/725/setplex.php?id=20001428&type=stream.m3u8
+
+#EXTINF:-1,MAVTV Select
+http://myghosthunt.great-site.net/725/setplex.php?id=20002436&type=stream.m3u8
+
+#EXTINF:-1,MOTOR TREND
+http://myghosthunt.great-site.net/725/setplex.php?id=20001180&type=stream.m3u8
+
+#EXTINF:-1,MOTORTREND
+http://myghosthunt.great-site.net/725/setplex.php?id=20000912&type=stream.m3u8
+
+#EXTINF:-1,MOTOAMERICA TV
+http://myghosthunt.great-site.net/725/setplex.php?id=20001422&type=stream.m3u8
+
+#EXTINF:-1,MSG
+http://myghosthunt.great-site.net/725/setplex.php?id=20001416&type=stream.m3u8
+
+#EXTINF:-1,MSG
+http://myghosthunt.great-site.net/725/setplex.php?id=20000636&type=stream.m3u8
+
+#EXTINF:-1,MSG2
+http://myghosthunt.great-site.net/725/setplex.php?id=20000639&type=stream.m3u8
+
+#EXTINF:-1,MSGPlus
+http://myghosthunt.great-site.net/725/setplex.php?id=20000642&type=stream.m3u8
+
+#EXTINF:-1,NBC SPORTS BOSTON
+http://myghosthunt.great-site.net/725/setplex.php?id=20005402&type=stream.m3u8
+
+#EXTINF:-1,NBCS BOSTON
+http://myghosthunt.great-site.net/725/setplex.php?id=20006278&type=stream.m3u8
+
+#EXTINF:-1,NBCS CALIFORNIA
+http://myghosthunt.great-site.net/725/setplex.php?id=20006272&type=stream.m3u8
+
+#EXTINF:-1,NBCS CHICAGO
+http://myghosthunt.great-site.net/725/setplex.php?id=20006275&type=stream.m3u8
+
+#EXTINF:-1,NBCSN CHICAGO PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006254&type=stream.m3u8
+
+#EXTINF:-1,NBCS PHILADELPHIA
+http://myghosthunt.great-site.net/725/setplex.php?id=20006266&type=stream.m3u8
+
+#EXTINF:-1,NBCSN BAY AREA PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006257&type=stream.m3u8
+
+#EXTINF:-1,NBCS PHILADELPHIA PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006263&type=stream.m3u8
+
+#EXTINF:-1,NBCS WASHINGTON
+http://myghosthunt.great-site.net/725/setplex.php?id=20006260&type=stream.m3u8
+
+#EXTINF:-1,NBCSN WASHINGTON PLUS
+http://myghosthunt.great-site.net/725/setplex.php?id=20006251&type=stream.m3u8
+
+#EXTINF:-1,NBC SPORTS NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20000930&type=stream.m3u8
+
+#EXTINF:-1,NBCS NORTHWEST
+http://myghosthunt.great-site.net/725/setplex.php?id=20006269&type=stream.m3u8
+
+#EXTINF:-1,NESN NEW
+http://myghosthunt.great-site.net/725/setplex.php?id=20001338&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20003453&type=stream.m3u8
+
+#EXTINF:-1,PAC 12
+http://myghosthunt.great-site.net/725/setplex.php?id=20001287&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 ARIZONA
+http://myghosthunt.great-site.net/725/setplex.php?id=20003471&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 BAY AREA
+http://myghosthunt.great-site.net/725/setplex.php?id=20003468&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://myghosthunt.great-site.net/725/setplex.php?id=20003459&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://myghosthunt.great-site.net/725/setplex.php?id=20003456&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 OREGON
+http://myghosthunt.great-site.net/725/setplex.php?id=20003450&type=stream.m3u8
+
+#EXTINF:-1,PAC 12 WASHINGTON
+http://myghosthunt.great-site.net/725/setplex.php?id=20003447&type=stream.m3u8
+
+#EXTINF:-1,PBR RIDEPASS
+http://myghosthunt.great-site.net/725/setplex.php?id=20002616&type=stream.m3u8
+
+#EXTINF:-1,PFL MMA
+http://myghosthunt.great-site.net/725/setplex.php?id=20002631&type=stream.m3u8
+
+#EXTINF:-1,PGA 01
+http://myghosthunt.great-site.net/725/setplex.php?id=20002817&type=stream.m3u8
+
+#EXTINF:-1,PGA 02
+http://myghosthunt.great-site.net/725/setplex.php?id=20002814&type=stream.m3u8
+
+#EXTINF:-1,PGA 03
+http://myghosthunt.great-site.net/725/setplex.php?id=20002781&type=stream.m3u8
+
+#EXTINF:-1,PGA 04
+http://myghosthunt.great-site.net/725/setplex.php?id=20002778&type=stream.m3u8
+
+#EXTINF:-1,PGA 05
+http://myghosthunt.great-site.net/725/setplex.php?id=20002772&type=stream.m3u8
+
+#EXTINF:-1,PGA 06
+http://myghosthunt.great-site.net/725/setplex.php?id=20002769&type=stream.m3u8
+
+#EXTINF:-1,PGA 07
+http://myghosthunt.great-site.net/725/setplex.php?id=20002742&type=stream.m3u8
+
+#EXTINF:-1,PGA 08
+http://myghosthunt.great-site.net/725/setplex.php?id=20002736&type=stream.m3u8
+
+#EXTINF:-1,PGA 09
+http://myghosthunt.great-site.net/725/setplex.php?id=20002730&type=stream.m3u8
+
+#EXTINF:-1,PGA 10
+http://myghosthunt.great-site.net/725/setplex.php?id=20002724&type=stream.m3u8
+
+#EXTINF:-1,PGA TOUR
+http://myghosthunt.great-site.net/725/setplex.php?id=20002634&type=stream.m3u8
+
+#EXTINF:-1,REDBULL TV
+http://myghosthunt.great-site.net/725/setplex.php?id=20000825&type=stream.m3u8
+
+#EXTINF:-1,SEC NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20000816&type=stream.m3u8
+
+#EXTINF:-1,SKY SPORTS F1
+http://myghosthunt.great-site.net/725/setplex.php?id=20001272&type=stream.m3u8
+
+#EXTINF:-1,SPORTSNET_LA_DODGERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20003534&type=stream.m3u8
+
+#EXTINF:-1,SPORTSNET ONTARIO
+http://myghosthunt.great-site.net/725/setplex.php?id=20005102&type=stream.m3u8
+
+#EXTINF:-1,SPORTSNET
+http://myghosthunt.great-site.net/725/setplex.php?id=20001260&type=stream.m3u8
+
+#EXTINF:-1,Sportman Channel
+http://myghosthunt.great-site.net/725/setplex.php?id=20001263&type=stream.m3u8
+
+#EXTINF:-1,SPORTSNET LAKERS
+http://myghosthunt.great-site.net/725/setplex.php?id=20001254&type=stream.m3u8
+
+#EXTINF:-1,STADIUM
+http://myghosthunt.great-site.net/725/setplex.php?id=20001251&type=stream.m3u8
+
+#EXTINF:-1,STADIUM 1
+http://myghosthunt.great-site.net/725/setplex.php?id=20001248&type=stream.m3u8
+
+#EXTINF:-1,STADIUM 2
+http://myghosthunt.great-site.net/725/setplex.php?id=20001242&type=stream.m3u8
+
+#EXTINF:-1,STADIUM 3
+http://myghosthunt.great-site.net/725/setplex.php?id=20001239&type=stream.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL
+http://myghosthunt.great-site.net/725/setplex.php?id=20000727&type=stream.m3u8
+
+#EXTINF:-1,TSN 1
+http://myghosthunt.great-site.net/725/setplex.php?id=20002640&type=stream.m3u8
+
+#EXTINF:-1,TSN 2
+http://myghosthunt.great-site.net/725/setplex.php?id=20002643&type=stream.m3u8
+
+#EXTINF:-1,TSN 3
+http://myghosthunt.great-site.net/725/setplex.php?id=20002646&type=stream.m3u8
+
+#EXTINF:-1,TSN 4
+http://myghosthunt.great-site.net/725/setplex.php?id=20002649&type=stream.m3u8
+
+#EXTINF:-1,TSN 5
+http://myghosthunt.great-site.net/725/setplex.php?id=20002652&type=stream.m3u8
+
+#EXTINF:-1,TUDN
+http://myghosthunt.great-site.net/725/setplex.php?id=20001212&type=stream.m3u8
+
+#EXTINF:-1,UFC
+http://myghosthunt.great-site.net/725/setplex.php?id=20001197&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S001
+http://myghosthunt.great-site.net/725/setplex.php?id=20003273&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S002
+http://myghosthunt.great-site.net/725/setplex.php?id=20003267&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S003
+http://myghosthunt.great-site.net/725/setplex.php?id=20003264&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S004
+http://myghosthunt.great-site.net/725/setplex.php?id=20003258&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S005
+http://myghosthunt.great-site.net/725/setplex.php?id=20003252&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S006
+http://myghosthunt.great-site.net/725/setplex.php?id=20003249&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S007
+http://myghosthunt.great-site.net/725/setplex.php?id=20004505&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S008
+http://myghosthunt.great-site.net/725/setplex.php?id=20003234&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S009
+http://myghosthunt.great-site.net/725/setplex.php?id=20003225&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S010
+http://myghosthunt.great-site.net/725/setplex.php?id=20003219&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S011
+http://myghosthunt.great-site.net/725/setplex.php?id=20003213&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S012
+http://myghosthunt.great-site.net/725/setplex.php?id=20003207&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S013
+http://myghosthunt.great-site.net/725/setplex.php?id=20003195&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S014
+http://myghosthunt.great-site.net/725/setplex.php?id=20003189&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S015
+http://myghosthunt.great-site.net/725/setplex.php?id=20003186&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S016
+http://myghosthunt.great-site.net/725/setplex.php?id=20003180&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S017
+http://myghosthunt.great-site.net/725/setplex.php?id=20003177&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S018
+http://myghosthunt.great-site.net/725/setplex.php?id=20003174&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S019
+http://myghosthunt.great-site.net/725/setplex.php?id=20003168&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S020
+http://myghosthunt.great-site.net/725/setplex.php?id=20003165&type=stream.m3u8
+
+#EXTINF:-1,VIP WORLD SPORTS S021
+http://myghosthunt.great-site.net/725/setplex.php?id=20003162&type=stream.m3u8
+
+#EXTINF:-1,VSIN
+http://myghosthunt.great-site.net/725/setplex.php?id=20001048&type=stream.m3u8
+
+#EXTINF:-1,WWE NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20001060&type=stream.m3u8
+
+#EXTINF:-1,WWE
+http://myghosthunt.great-site.net/725/setplex.php?id=20000703&type=stream.m3u8
+
+#EXTINF:-1,WORLD FISHING NETWORK
+http://myghosthunt.great-site.net/725/setplex.php?id=20001185&type=stream.m3u8
+
+#EXTINF:-1,WORLD POKER TOUR
+http://myghosthunt.great-site.net/725/setplex.php?id=20001611&type=stream.m3u8
