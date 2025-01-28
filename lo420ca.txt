@@ -1,451 +1,451 @@
 #EXTM3U
 #EXTINF:-1 group-title="Locals",AL BIRMINGHAM ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004517&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004517&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL BIRMINGHAM FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004520&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004520&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL Birmingham NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004523&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004523&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL DOTHAN ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004526&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004526&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL DOTHAN CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004529&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004529&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL DOTHAN FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004532&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004532&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL DOTHAN NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004535&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004535&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL MOBILE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004538&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004538&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL MOBILE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004541&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004541&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL MOBILE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004544&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004544&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AL MOBILE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004547&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004547&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AR LITTLEROCK CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004550&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004550&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AR LITTLEROCK FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004553&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004553&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AR LITTLEROCK NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004556&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004556&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AR SAVANNAH FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004559&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004559&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AZ PHOENIX ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004562&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004562&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AZ PHOENIX FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004565&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004565&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",AZ TUCSON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004568&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004568&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA BAKERSFIELD CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004571&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004571&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA FRESNO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004574&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004574&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA FRESNO NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004577&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004577&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA LOS ANGELES ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004580&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004580&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA Los Angeles CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004583&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004583&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA LOS ANGELES FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005225&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005225&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA LOS ANGELES KCAL
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005228&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005228&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA LOS ANGELES KTLA CW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005231&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005231&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA Los Angeles NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004586&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004586&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SACRAMENTO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004589&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004589&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SACRAMENTO FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004592&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004592&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SACRAMENTO NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004595&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004595&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SAN DIEGO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004598&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004598&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SAN DIEGO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004601&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004601&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SAN DIEGO NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004604&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004604&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SAN FRANCISCO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004607&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004607&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CA SAN FRANCISCO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004610&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004610&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NBCS BAY AREA
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006428&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006428&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CO DENVER CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004613&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004613&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CO DENVER FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004616&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004616&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CO DENVER NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004619&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004619&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CW ORLANDO
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004622&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004622&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",DC WASHINGTON ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004625&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004625&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",DC WASHINGTON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004628&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004628&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",DC WASHINGTON FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004631&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004631&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",DC WASHINGTON NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004634&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004634&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL FORT MYERS ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005222&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005222&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL FORT MYERS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005219&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005219&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL FORT MYERS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004640&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004640&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL FORT LAUDERDALE TELEMUNDO
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004637&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004637&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL GAINESVILLE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004643&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004643&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL GAINESVILLE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004646&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004646&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL JACKSONVILLE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004649&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004649&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL JACKSONVILLE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004652&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004652&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL JACKSONVILLE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004655&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004655&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL JACKSONVILLE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004658&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004658&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL MIAMI CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004661&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004661&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL MIAMI FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004664&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004664&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL MIAMI NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004667&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004667&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL ORLANDO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004673&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004673&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL ORLANDO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004676&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004676&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL ORLANDO FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004679&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004679&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL ORLANDO TELEMUNDO
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004682&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004682&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL OCALA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004670&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004670&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL PANAMA CITY FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004685&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004685&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL PENSACOLA ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004691&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004691&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL PANAMA CITY NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004688&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004688&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL SARASOTA ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004694&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004694&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TALLAHASSEE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004697&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004697&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TALLAHASSEE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004700&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004700&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TAMPA ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004703&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004703&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TAMPA CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004706&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004706&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TAMPA CW44
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004709&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004709&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TAMPA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004712&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004712&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL TAMPA NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004715&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004715&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL WEST PALM BEACH CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004718&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004718&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL WEST PALM BEACH FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004721&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004721&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",FL WEST PALM BEACH NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004724&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004724&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA ATL CW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004727&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004727&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA ATLANTA ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004730&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004730&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA ATLANTA CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004733&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004733&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA ATLANTA NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004742&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004742&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA AUGUSTA CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004739&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004739&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA AUGUSTA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004745&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004745&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA ATLANTA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004736&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004736&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA MACON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004748&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004748&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA MACON NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004751&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004751&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA SAVANNAH CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004754&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004754&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA SAVANNAH NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004757&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004757&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",GA THOMASVILLE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004760&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004760&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",HI HONOLULU FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004763&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004763&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IA CEDAR RAPIDS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004766&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004766&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",ID BOISE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004769&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004769&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IL CHICAGO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004772&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004772&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IL CHICAGO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004775&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004775&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IL CHICAGO FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004778&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004778&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IL CHICAGO NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005243&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005243&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IN FORT WAYNE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004781&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004781&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IN FORT WAYNE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004784&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004784&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IN INDIANAPOLIS FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004787&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004787&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IN INDIANAPOLIS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004790&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004790&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IN SOUTH BEND ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004793&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004793&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",IN SOUTH BEND CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004796&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004796&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",KY LOUISVILLE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004802&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004802&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",KY LOUISVILLE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004805&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004805&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",KY LEXINGTON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004799&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004799&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",KY LOUISVILLE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004808&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004808&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",KY LOUISVILLE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004811&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004811&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA BATON ROUGE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004814&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004814&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA BATON ROUGE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004817&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004817&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA BATON ROUGE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004820&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004820&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA NEW ORLEANS ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004823&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004823&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA NEW ORLEANS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004826&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004826&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA NEW ORLEANS FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004829&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004829&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",LA SHREVEPORT ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004832&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004832&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NV LAS VEGAS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004961&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004961&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MA BOSTON ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004835&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004835&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MA BOSTON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004841&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004841&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MA BOSTON FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004847&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004847&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MA NBC BOSTON
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004850&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004850&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MA SPRINGFIELD CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004853&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004853&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MD BALTIMORE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004856&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004856&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MD BALTIMORE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004859&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004859&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",ME PORTLAND CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004862&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004862&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MI DETROIT ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004865&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004865&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MI DETROIT CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004868&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004868&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MI DETROIT NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004871&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004871&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MN MINNEAPOLIS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004874&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004874&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MN MINNESOTA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004877&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004877&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO KANSAS CITY ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004880&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004880&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO KANSAS CITY CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004883&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004883&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO KANSAS CITY FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004886&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004886&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO KANSAS CITY NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004889&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004889&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO SPRINGFIELD NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004892&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004892&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO ST LOUIS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004895&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004895&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO ST LOUIS FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004898&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004898&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MO ST LOUIS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004901&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004901&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MOR 32 TAMPA BAY
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004904&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004904&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MS JACKSON ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004907&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004907&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MS JACKSON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004910&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004910&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MS JACKSON FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004913&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004913&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MS JACKSON NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004916&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004916&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",MSG BUFFALO
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004919&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004919&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC CHARLOTTE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004925&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004925&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC CHARLOTTE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004928&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004928&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC CHARLOTTE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004931&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004931&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC RALEIGH ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004934&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004934&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC RALEIGH CW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004937&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004937&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC RALEIGH FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004940&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004940&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC RALEIGH NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004943&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004943&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NC WINSTON SALEM ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004946&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004946&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NM ALBUQUERQUE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004949&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004949&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NM ALBUQUERQUE CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004952&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004952&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NM ALBUQUERQUE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004955&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004955&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NM ALBUQUERQUE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004958&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004958&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NV LAS VEGAS FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004964&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004964&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NV LAS VEGAS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004967&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004967&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY ALBANY ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004970&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004970&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY ALBANY CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004973&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004973&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY ALBANY FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004976&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004976&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY BINGHAMTON NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004979&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004979&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY BUFFALO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004985&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004985&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY BUFFALO CW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004988&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004988&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY BUFFALO FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004991&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004991&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY BUFFALO NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004994&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004994&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY NEW YORK ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20004997&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20004997&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY NEW YORK FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005003&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005003&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",NY NEW YORK NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005006&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005006&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",OH CLEVELAND ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005009&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005009&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",CLEVELAND HD
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20006344&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20006344&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",OH CLEVELAND CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005012&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005012&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",OH DAYTON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005015&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005015&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",OK OKLAHOMACITY ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005021&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005021&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",OK TULSA ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005024&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005024&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",OR PORTLAND ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005027&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005027&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PHILADELPHIA ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005030&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005030&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PHILADELPHIA CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005033&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005033&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PHILADELPHIA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005036&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005036&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PHILADELPHIA NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005039&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005039&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PITTSBURGH ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005042&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005042&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PITTSBURGH FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005045&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005045&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PA PITTSBURGH NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005048&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005048&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PANAMA CITY FL ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005051&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005051&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",PBS BUFFALO
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005054&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005054&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",SC GREENVILLE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005093&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005093&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",SC GREENVILLE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005096&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005096&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",SPECTRUM NEWS 1 BUFFALO
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005099&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005099&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN CHATTANOOGA CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005108&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005108&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN CHATTANOOGA FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005111&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005111&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN CHATTANOOGA NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005114&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005114&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN KNOXVILLE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005117&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005117&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN KNOXVILLE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005120&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005120&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN MEMPHIS FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005126&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005126&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN MEMPHIS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005129&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005129&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN NASHVILLE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005132&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005132&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN NASHVILLE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005135&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005135&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TN NASHVILLE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005138&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005138&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX AUSTIN ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005141&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005141&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX AUSTIN FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005144&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005144&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX BEAUMONT NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005147&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005147&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX DALLAS ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005150&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005150&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX DALLAS CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005153&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005153&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX DALLAS FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005156&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005156&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX DALLAS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005159&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005159&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX HOUSTON ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005162&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005162&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX HOUSTON CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005165&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005165&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX HOUSTON FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005168&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005168&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX HOUSTON NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005411&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005411&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX KGVT MCALLEN CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005171&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005171&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX KRGV MCALLEN ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005174&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005174&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX KRIV MCALLEN FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005177&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005177&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX KVEO MCALLEN NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005180&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005180&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX SAN ANTONIO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005183&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005183&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX SAN ANTONIO FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005186&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005186&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX SAN ANTONIO NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005189&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005189&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",TX WESLACO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005192&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005192&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",VA RICHMOND NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005195&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005195&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",VA ROANOKE FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005198&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005198&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",VA ROANOKE NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005201&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005201&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",VIRGIN ISLANDS ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005204&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005204&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",VIRGIN ISLANDS NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005207&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005207&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",WA SEATTLE KCPQ FOX
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005210&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005210&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",WA SEATTLE KING NBC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005237&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005237&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",WA SEATTLE KIRO CBS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005234&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005234&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",WA SEATTLE KOMO ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005240&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005240&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",WI MADISON ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005213&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005213&type=stream.m3u8
 #EXTINF:-1 group-title="Locals",WI MILWAUKEE ABC
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20005216&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20005216&type=stream.m3u8
