@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,WNBA 01
+http://myghosthunt.great-site.net/725/setplex.php?id=20003519&type=stream.m3u8
+
+#EXTINF:-1,WNBA 03
+http://myghosthunt.great-site.net/725/setplex.php?id=20003513&type=stream.m3u8
+
+#EXTINF:-1,WNBA 04
+http://myghosthunt.great-site.net/725/setplex.php?id=20003507&type=stream.m3u8
+
+#EXTINF:-1,WNBA 05
+http://myghosthunt.great-site.net/725/setplex.php?id=20003504&type=stream.m3u8
+
+#EXTINF:-1,WNBA 06
+http://myghosthunt.great-site.net/725/setplex.php?id=20003501&type=stream.m3u8
+
+#EXTINF:-1,WNBA 07
+http://myghosthunt.great-site.net/725/setplex.php?id=20003498&type=stream.m3u8
+
+#EXTINF:-1,WNBA 08
+http://myghosthunt.great-site.net/725/setplex.php?id=20003495&type=stream.m3u8
+
+#EXTINF:-1,WNBA 09
+http://myghosthunt.great-site.net/725/setplex.php?id=20003492&type=stream.m3u8
+
+#EXTINF:-1,WNBA 10
+http://myghosthunt.great-site.net/725/setplex.php?id=20003486&type=stream.m3u8
+
+#EXTINF:-1,WNBA 11
+http://myghosthunt.great-site.net/725/setplex.php?id=20003483&type=stream.m3u8
+
+#EXTINF:-1,WNBA 12
+http://myghosthunt.great-site.net/725/setplex.php?id=20003480&type=stream.m3u8
+
+#EXTINF:-1,WNBA 13
+http://myghosthunt.great-site.net/725/setplex.php?id=20003477&type=stream.m3u8
+
+#EXTINF:-1,WNBA 15
+http://myghosthunt.great-site.net/725/setplex.php?id=20003474&type=stream.m3u8
