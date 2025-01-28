@@ -1,65 +1,65 @@
 #EXTM3U
 #EXTINF:-1 group-title="24/7",LIFETIME REAL WOMEN
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001172&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001172&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",LIFETIME REAL WOMAN
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20000897&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20000897&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",LOVE NATURE
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001431&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001431&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",LOVE & HIP HOP
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002421&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002421&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",LOVE & HIP HOP 2
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002415&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002415&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",LUPIN THE 3RD
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002430&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002430&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",MATLOCK
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002433&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002433&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",MORE STAR TREK
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002457&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002457&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",PBS ANTIQUES ROADSHOW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002619&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002619&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",RESCUE 911
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002229&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002229&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",RYAN AND FRIENDS
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002214&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002214&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE ADDAMS FAMILY
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002091&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002091&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE ANDY GRIFFITH SHOW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002085&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002085&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE BOB ROSS CHANNEL
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002073&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002073&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE CAROL BURNETT SHOW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002070&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002070&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE COWBOY CHANNEL
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001014&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001014&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE DICK VAN DYKE SHOW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20002061&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20002061&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE ED SULLIVAN SHOW
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001860&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001860&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE FIRST
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001857&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001857&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE LOVE BOAT
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001842&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001842&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE NEW DETECTIVES
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001839&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001839&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE PET COLLECTIVE
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001833&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001833&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE PRICE IS RIGHT
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001830&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001830&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE PRICE IS RIGHT: THE BARKER ERA
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001827&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001827&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE RIFLEMAN
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001821&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001821&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE WALKING DEAD UNIVERSE
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001815&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001815&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE WEATHER CHANNEL
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001218&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001218&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THE WORD NETWORK
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20000725&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20000725&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THIS OLD HOUSE
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001806&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001806&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",THREE'S COMPANY
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001803&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001803&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",TINY HOUSE NATION
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001800&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001800&type=stream.m3u8
 #EXTINF:-1 group-title="24/7",TREE HOUSE
-http://http://myghosthunt.great-site.net/725/setplex.php?id=20001215&type=stream.m3u8
+http://myghosthunt.great-site.net/725/setplex.php?id=20001215&type=stream.m3u8
